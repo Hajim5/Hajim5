@@ -2,7 +2,6 @@
 - 👀 c interested in programming 
 - 🌱 I’m currently learning software convergence at kyung hee university
 - 📫 How to reach me throught email ; hazim.zuhri05@gmail.com
-- I had learn java language programming
 
 <!---
 Hajim5/Hajim5 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
