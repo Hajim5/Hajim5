@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @Hajim5
 - 👀 c interested in programming 
-- 🌱 I’m currently learning software convergence at kyung hee university
 - 📫 How to reach me throught email ; hazim.zuhri05@gmail.com
 
 <!---
