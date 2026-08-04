@@ -221,37 +221,60 @@ on deep-learning detectors.
 />
 </div>
 
-> CURRENT EXPLORATION
+## 🔭 CURRENT EXPLORATION
 
+```text
 Computer Vision
 │
-├── Object Detection
+├── 🎯 Object Detection
 │   ├── YOLO
 │   ├── Grounding DINO
 │   └── Classical Detection
 │
-├── Vision-Language Models
+├── 🧠 Vision-Language Models
 │   ├── CLIP
 │   └── Open-Vocabulary Detection
 │
-├── Industrial Vision
+├── 🏭 Industrial Vision
 │   ├── Template Matching
 │   ├── ROI Detection
 │   └── Visual Inspection
 │
-└── Robotics
+└── 🤖 Robotics
     ├── Computer Vision
     ├── Sensors
     └── Autonomous Navigation
-
-<div align="center">
-
-> Building systems that see, think and act.
-
-Computer Vision • Deep Learning • Robotics • AI
+```
 
 <br>
 
-<img src="https://komarev.com/ghpvc/?username=Hajim5&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile views">
+<div align="center">
+
+### `> SEE. THINK. BUILD.`
+
+**Building intelligent systems that bridge perception and the real world.**
+
+<br>
+
+<img src="https://img.shields.io/badge/Computer_Vision-111111?style=for-the-badge&logo=opencv&logoColor=white">
+<img src="https://img.shields.io/badge/Deep_Learning-111111?style=for-the-badge&logo=pytorch&logoColor=white">
+<img src="https://img.shields.io/badge/Robotics-111111?style=for-the-badge&logo=ros&logoColor=white">
+<img src="https://img.shields.io/badge/Artificial_Intelligence-111111?style=for-the-badge&logo=openai&logoColor=white">
+
+<br><br>
+
+```text
+[ Research ]  ──────>  [ Prototype ]  ──────>  [ Real-World System ]
+```
+
+<br>
+
+### `> Code. Experiment. Iterate. Repeat. _`
+
+<sub>Always learning. Always building.</sub>
+
+<br><br>
+
+<img src="https://komarev.com/ghpvc/?username=Hajim5&style=flat-square&label=PROFILE+VIEWS">
 
 </div>
