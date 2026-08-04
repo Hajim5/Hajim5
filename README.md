@@ -30,12 +30,6 @@ I'm interested in building practical AI-powered computer visionsystems and exper
 
 ⚡ Goal: Turn AI research into useful real-world systems
 
-</td>
-<td width="45%" align="center" valign="middle">
-
-<img src="./github.png" width="390" alt="Mecha line art">
-
-</td>
 </tr>
 </table>
 
