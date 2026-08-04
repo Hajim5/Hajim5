@@ -45,6 +45,8 @@ I'm interested in building practical AI-powered computer visionsystems and exper
 
 <img src="https://skillicons.dev/icons?i=python,cpp,opencv,pytorch,arduino,git,github,linux,vscode&perline=9" alt="Tech stack">
 
+<br>
+
 <img src="https://img.shields.io/badge/YOLO-111827?style=for-the-badge&logo=yolo&logoColor=00FFFF">
 <img src="https://img.shields.io/badge/Grounding_DINO-111827?style=for-the-badge">
 <img src="https://img.shields.io/badge/CLIP-111827?style=for-the-badge">
