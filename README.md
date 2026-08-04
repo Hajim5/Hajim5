@@ -227,30 +227,6 @@ on deep-learning detectors.
 />
 </div>
 
-## 🔭 CURRENT EXPLORATION
-
-```text
-Computer Vision
-│
-├── 🎯 Object Detection
-│   ├── YOLO
-│   ├── Grounding DINO
-│   └── Classical Detection
-│
-├── 🧠 Vision-Language Models
-│   ├── CLIP
-│   └── Open-Vocabulary Detection
-│
-├── 🏭 Industrial Vision
-│   ├── Template Matching
-│   ├── ROI Detection
-│   └── Visual Inspection
-│
-└── 🤖 Robotics
-    ├── Computer Vision
-    ├── Sensors
-    └── Autonomous Navigation
-```
 <div align="center">
 
 <img src="https://img.shields.io/badge/Computer_Vision-111111?style=for-the-badge&logo=opencv&logoColor=white">
