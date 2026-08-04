@@ -33,7 +33,7 @@ I'm interested in building practical AI-powered computer visionsystems and exper
 </td>
 <td width="45%" align="center" valign="middle">
 
-<img src="./assets/gundam-line.png" width="390" alt="Mecha line art">
+<img src="./assets/github.png" width="390" alt="Mecha line art">
 
 </td>
 </tr>
