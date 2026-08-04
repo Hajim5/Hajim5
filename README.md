@@ -147,20 +147,6 @@ Python OpenCV Classical CV Image Processing
 </tr>
 </table>
 
-> GITHUB STATISTICS
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Hajim5&show_icons=true&hide_border=true&theme=github_dark&rank_icon=github" alt="Hajim5 GitHub statistics">
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hajim5&layout=compact&hide_border=true&theme=github_dark&langs_count=8" alt="Hajim5 most used languages">
-
-</div>
-
-<br>
-
-
-<div align="center">
-
 ### 🔥 Contribution Streak
 
 <img
