@@ -94,11 +94,7 @@ Python YOLOv5 Computer Vision Roboflow
 
 <b>Hybrid ML & Transformer-Based Phishing URL Detection</b>
 
-<br><br>
-
 An undergraduate research project for detecting phishing URLs usinglexical and host-based features, multiple machine-learning models,and a Transformer-based deep learning model.
-
-<br><br>
 
 <b>Core Features</b>
 
@@ -112,13 +108,9 @@ Ensemble voting
 
 Real-world phishing detection
 
-<br>
-
 <b>Tech</b>
 
 Python Machine Learning Transformers Cybersecurity
-
-<br><br>
 
 <a href="https://github.com/Hajim5/PhishLess">
 <img src="https://img.shields.io/badge/View_Project-181717?style=for-the-badge&logo=github&logoColor=white">
@@ -127,15 +119,11 @@ Python Machine Learning Transformers Cybersecurity
 </td>
 <td width="33%" valign="top">
 
-<h3>03 — 👁️ BeyondYOLO</h3>
+<h3>03 — 👁️ BeyondYOLO (OnGoing) </h3>
 
 <b>Classical Computer Vision for Industrial Inspection</b>
 
-<br><br>
-
 A collection of classical computer vision techniques for objectdetection and industrial inspection without relying on deep-learningdetectors such as YOLO.
-
-<br><br>
 
 <b>Core Focus</b>
 
@@ -150,8 +138,6 @@ ROI extraction
 Industrial inspection
 
 Non-deep-learning pipelines
-
-<br>
 
 <b>Tech</b>
 
