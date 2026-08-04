@@ -210,9 +210,10 @@ on deep-learning detectors.
 />
 </div>
 
-<div align="center">
 ## 📈 Contribution Activity
 </tr>
+
+<div align="center">
 <img
   src="https://github-readme-activity-graph.vercel.app/graph?username=Hajim5&theme=github-compact&hide_border=true&area=true"
   width="95%"
