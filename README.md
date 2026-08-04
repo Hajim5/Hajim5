@@ -61,6 +61,53 @@ I'm interested in building practical AI-powered computer visionsystems and exper
 
 </div>
 
+## 🎓 CERTIFICATIONS
+
+<table>
+<tr>
+
+<td width="33%" align="center" valign="top">
+
+### 🟣 Julia Programming
+
+**Julia Programming Language**  
+*From Zero to Expert*
+
+<img src="https://img.shields.io/badge/Julia-Programming-9558B2?style=for-the-badge&logo=julia&logoColor=white">
+
+📅 **April 13, 2026**
+
+</td>
+
+<td width="33%" align="center" valign="top">
+
+### 🔐 Cybersecurity 101
+
+**TryHackMe**
+
+<img src="https://img.shields.io/badge/TryHackMe-Cybersecurity_101-212C42?style=for-the-badge&logo=tryhackme&logoColor=white">
+
+<br><br>
+
+📅 **June 4, 2025**
+
+</td>
+
+<td width="33%" align="center" valign="top">
+
+### 🛡️ Pre Security
+
+**TryHackMe**
+
+<img src="https://img.shields.io/badge/TryHackMe-Pre_Security-212C42?style=for-the-badge&logo=tryhackme&logoColor=white">
+
+📅 **April 6, 2025**
+
+</td>
+
+</tr>
+</table>
+
 ## 🚀 Featured Projects
 
 <table>
