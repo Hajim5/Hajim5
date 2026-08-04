@@ -156,8 +156,6 @@ Python OpenCV Classical CV Image Processing
   alt="GitHub Streak"
 />
 
-<br><br>
-
 ### 📈 Contribution Activity
 
 <img
