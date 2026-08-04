@@ -65,11 +65,7 @@ I'm interested in building practical AI-powered computer visionsystems and exper
 
 <b>Intelligent Recipe Recommendation System</b>
 
-<br><br>
-
 A computer vision system that uses YOLOv5 and a custom dataset todetect food items inside a refrigerator and recommend recipes based onthe detected ingredients.
-
-<br><br>
 
 <b>Core Features</b>
 
@@ -83,13 +79,9 @@ JSON recipe database
 
 Roboflow dataset integration
 
-<br>
-
 <b>Tech</b>
 
 Python YOLOv5 Computer Vision Roboflow
-
-<br><br>
 
 <a href="https://github.com/Hajim5/KHU-Intellec-Refrigerator">
 <img src="https://img.shields.io/badge/View_Project-181717?style=for-the-badge&logo=github&logoColor=white">
