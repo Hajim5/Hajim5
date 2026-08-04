@@ -61,93 +61,139 @@ I'm interested in building practical AI-powered computer visionsystems and exper
 
 </div>
 
-> FEATURED PROJECTS
+## 🚀 Featured Projects
 
 <table>
 <tr>
+
+<!-- ==================== PROJECT 1 ==================== -->
 <td width="33%" valign="top">
 
-<h3>01 — 🧊 KHU Intellec Refrigerator</h3>
+<h3 align="center">🧊 KHU Intellec Refrigerator</h3>
 
-<b>Intelligent Recipe Recommendation System</b>
+<p align="center">
+  <b>AI-Powered Recipe Recommendation</b>
+</p>
 
-A computer vision system that uses YOLOv5 and a custom dataset todetect food items inside a refrigerator and recommend recipes based onthe detected ingredients.
+<p>
+Computer vision system that detects ingredients inside a refrigerator
+using <b>YOLOv5</b> and recommends recipes based on available food.
+</p>
 
-<b>Core Features</b>
+<h4>⚡ Highlights</h4>
 
-Food item detection
+✓ Custom object detection dataset<br>
+✓ YOLOv5 ingredient detection<br>
+✓ Recipe recommendation engine<br>
+✓ Roboflow dataset integration<br>
+✓ End-to-end AI pipeline<br>
 
-Custom YOLOv5 training
+<br>
 
-Recipe recommendation
+<p>
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white">
+<img src="https://img.shields.io/badge/YOLOv5-00FFFF?style=flat-square&logo=yolo&logoColor=black">
+<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white">
+</p>
 
-JSON recipe database
+<br>
 
-Roboflow dataset integration
-
-<b>Tech</b>
-
-Python YOLOv5 Computer Vision Roboflow
-
+<p align="center">
 <a href="https://github.com/Hajim5/KHU-Intellec-Refrigerator">
-<img src="https://img.shields.io/badge/View_Project-181717?style=for-the-badge&logo=github&logoColor=white">
+<img src="https://img.shields.io/badge/VIEW_PROJECT-181717?style=for-the-badge&logo=github&logoColor=white">
 </a>
+</p>
 
 </td>
+
+
+<!-- ==================== PROJECT 2 ==================== -->
 <td width="33%" valign="top">
 
-<h3>02 — 🛡️ PhishLess</h3>
+<h3 align="center">🛡️ PhishLess</h3>
 
-<b>Hybrid ML & Transformer-Based Phishing URL Detection</b>
+<p align="center">
+  <b>Hybrid ML + Transformer Phishing Detection</b>
+</p>
 
-An undergraduate research project for detecting phishing URLs usinglexical and host-based features, multiple machine-learning models,and a Transformer-based deep learning model.
+<p>
+Research-based phishing URL detector combining
+<b>machine learning</b>, <b>feature engineering</b> and
+<b>Transformer models</b> through ensemble voting.
+</p>
 
-<b>Core Features</b>
+<h4>⚡ Highlights</h4>
 
-URL feature engineering
+✓ Lexical URL analysis<br>
+✓ Host-based feature extraction<br>
+✓ Multiple ML classifiers<br>
+✓ Transformer-based detection<br>
+✓ Ensemble voting strategies<br>
 
-Classical ML models
+<br>
 
-Transformer architecture
+<p>
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white">
+<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white">
+<img src="https://img.shields.io/badge/Transformers-FFD21E?style=flat-square&logo=huggingface&logoColor=black">
+</p>
 
-Ensemble voting
+<br>
 
-Real-world phishing detection
-
-<b>Tech</b>
-
-Python Machine Learning Transformers Cybersecurity
-
+<p align="center">
 <a href="https://github.com/Hajim5/PhishLess">
-<img src="https://img.shields.io/badge/View_Project-181717?style=for-the-badge&logo=github&logoColor=white">
+<img src="https://img.shields.io/badge/VIEW_PROJECT-181717?style=for-the-badge&logo=github&logoColor=white">
 </a>
+</p>
 
 </td>
+
+
+<!-- ==================== PROJECT 3 ==================== -->
 <td width="33%" valign="top">
 
-<h3>03 — 👁️ BeyondYOLO (OnGoing) </h3>
+<h3 align="center">👁️ BeyondYOLO</h3>
 
-<b>Classical Computer Vision for Industrial Inspection</b>
+<p align="center">
+<img src="https://img.shields.io/badge/STATUS-IN_DEVELOPMENT-orange?style=flat-square">
+</p>
 
-A collection of classical computer vision techniques for objectdetection and industrial inspection without relying on deep-learningdetectors such as YOLO.
+<p align="center">
+  <b>Classical Vision for Industrial Inspection</b>
+</p>
 
-<b>Core Focus</b>
+<p>
+Exploring object detection and industrial inspection using
+<b>classical computer vision</b> techniques without depending
+on deep-learning detectors.
+</p>
 
-Template matching
+<h4>🔬 Currently Exploring</h4>
 
-Feature-based detection
+✓ Template matching<br>
+✓ Feature-based detection<br>
+✓ Image preprocessing<br>
+✓ Dynamic ROI extraction<br>
+✓ Industrial visual inspection<br>
 
-Image preprocessing
+<br>
 
-ROI extraction
+<p>
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white">
+<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white">
+<img src="https://img.shields.io/badge/Classical_CV-111827?style=flat-square">
+</p>
 
-Industrial inspection
+<br>
 
-Non-deep-learning pipelines
+<p align="center">
+<img src="https://img.shields.io/badge/COMING_SOON-333333?style=for-the-badge&logo=github&logoColor=white">
+</p>
 
-<b>Tech</b>
+</td>
 
-Python OpenCV Classical CV Image Processing
+</tr>
+</table>
 
 </td>
 </tr>
