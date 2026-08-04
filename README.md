@@ -158,21 +158,25 @@ Python OpenCV Classical CV Image Processing
 
 <br>
 
-> CONTRIBUTION STREAK
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=Hajim5&theme=github-dark-blue&hide_border=true" alt="Hajim5 GitHub contribution streak">
+### 🔥 Contribution Streak
 
-</div>
+<img
+  src="https://streak-stats.demolab.com?user=Hajim5&theme=transparent&hide_border=true"
+  alt="GitHub Streak"
+/>
 
-<br>
+<br><br>
 
-> CONTRIBUTION GRAPH
+### 📈 Contribution Activity
 
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Hajim5&theme=github-compact&hide_border=true&area=true" width="100%" alt="Hajim5 contribution graph">
+<img
+  src="https://github-readme-activity-graph.vercel.app/graph?username=Hajim5&theme=github-compact&hide_border=true&area=true"
+  width="95%"
+  alt="Contribution Graph"
+/>
 
 </div>
 
