@@ -4,28 +4,6 @@
 
 <h3>AI & Computer Vision Engineer</h3>
 
-## 🔥 Contribution Streak
-</tr>
-<div align="center">
-
-
-<img
-  src="https://streak-stats.demolab.com?user=Hajim5&theme=transparent&hide_border=true"
-  alt="GitHub Streak"
-/>
-</div>
-
-## 📈 Contribution Activity
-</tr>
-
-<div align="center">
-<img
-  src="https://github-readme-activity-graph.vercel.app/graph?username=Hajim5&theme=github-compact&hide_border=true&area=true"
-  width="95%"
-  alt="Contribution Graph"
-/>
-</div>
-
 <p>
 Building intelligent systems at the intersection of
 <b>Computer Vision</b>, <b>Artificial Intelligence</b>, and <b>Robotics</b>.
@@ -226,6 +204,28 @@ on deep-learning detectors.
 </td>
 </tr>
 </table>
+
+## 🔥 Contribution Streak
+</tr>
+<div align="center">
+
+
+<img
+  src="https://streak-stats.demolab.com?user=Hajim5&theme=transparent&hide_border=true"
+  alt="GitHub Streak"
+/>
+</div>
+
+## 📈 Contribution Activity
+</tr>
+
+<div align="center">
+<img
+  src="https://github-readme-activity-graph.vercel.app/graph?username=Hajim5&theme=github-compact&hide_border=true&area=true"
+  width="95%"
+  alt="Contribution Graph"
+/>
+</div>
 
 <div align="center">
 
