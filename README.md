@@ -30,7 +30,7 @@ Building intelligent systems at the intersection of
 
 <h2>👨‍💻 About Me</h2>
 
-I'm interested in building practical AI-powered computer visionsystems and experimenting with robotics, deep learning, andintelligent automation.
+I'm interested in building practical AI-powered computer visionsystems and experimenting with robotics, deep learning, and intelligent automation.
 
 🎯 Focus: Computer Vision, Deep Learning & Robotics
 
