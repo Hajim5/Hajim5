@@ -147,6 +147,8 @@ Python OpenCV Classical CV Image Processing
 </tr>
 </table>
 
+<div align="center">
+  
 ### 🔥 Contribution Streak
 
 <img
@@ -163,6 +165,8 @@ Python OpenCV Classical CV Image Processing
   width="95%"
   alt="Contribution Graph"
 />
+
+</div>
 
 </div>
 
