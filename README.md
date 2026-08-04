@@ -252,6 +252,7 @@ Computer Vision
 <img src="https://img.shields.io/badge/Robotics-111111?style=for-the-badge&logo=ros&logoColor=white">
 <img src="https://img.shields.io/badge/Artificial_Intelligence-111111?style=for-the-badge&logo=openai&logoColor=white">
 
+<br>
 <img src="https://komarev.com/ghpvc/?username=Hajim5&style=flat-square&label=PROFILE+VIEWS">
 
 </div>
