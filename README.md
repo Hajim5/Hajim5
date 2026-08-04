@@ -1,20 +1,32 @@
 <div align="center">
 
-HaaZuu55
+<h1>Hi 👋, I'm Ahmad Hazim</h1>
 
-AI & Computer Vision Engineer
+<h3>AI & Computer Vision Engineer</h3>
 
-Exploring the intersection of AI, Computer Vision, and Robotics tobuild intelligent systems that see, think, and act.
+<p>
+Building intelligent systems at the intersection of
+<b>Computer Vision</b>, <b>Artificial Intelligence</b>, and <b>Robotics</b>.
+</p>
 
-<a href="https://github.com/Hajim5"><img src="https://img.shields.io/badge/GitHub-Hajim5-181717?style=for-the-badge&logo=github&logoColor=white"></a><a href="https://www.linkedin.com/in/ahmad-hazim-63b6a2216"><img src="https://img.shields.io/badge/LinkedIn-Ahmad_Hazim-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+<p>
+<code>Computer Vision</code> •
+<code>Deep Learning</code> •
+<code>Robotics</code> •
+<code>Industrial Vision</code>
+</p>
+
+<a href="https://github.com/Hajim5">
+  <img src="https://img.shields.io/badge/GitHub-Hajim5-181717?style=for-the-badge&logo=github&logoColor=white">
+</a>
+&nbsp;
+<a href="https://www.linkedin.com/in/ahmad-hazim-63b6a2216">
+  <img src="https://img.shields.io/badge/LinkedIn-Ahmad_Hazim-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
+</a>
 
 📍 Malaysia
 
 </div>
-
-<table>
-<tr>
-<td width="55%" valign="top">
 
 <h2>👨‍💻 About Me</h2>
 
