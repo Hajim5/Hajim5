@@ -1,193 +1,236 @@
-```{=html}
-<!--
-  GitHub Profile README
-  Replace:
-  - YOUR_USERNAME
-  - YOUR_EMAIL
-  - assets/gundam-line.png with your own line-art banner/image
--->
-```
-::: {align="center"}
-# `> Hello World! I'm building the future with code.`
+<div align="center">
 
-# AHMAD HAZIM
+> Hello World! I'm building the future with code.
 
-### AI & Computer Vision Engineer
+AHMAD HAZIM
 
-Exploring the intersection of **AI, Computer Vision and Robotics** to
-build intelligent systems that **see, think and act**.
+AI & Computer Vision Engineer
 
-📍 Malaysia   •   ✉️ YOUR_EMAIL   •   💻
-[GitHub](https://github.com/YOUR_USERNAME)
-:::
+Exploring the intersection of AI, Computer Vision, and Robotics tobuild intelligent systems that see, think, and act.
 
-------------------------------------------------------------------------
+<a href="https://github.com/Hajim5"><img src="https://img.shields.io/badge/GitHub-Hajim5-181717?style=for-the-badge&logo=github&logoColor=white"></a><a href="https://www.linkedin.com/in/ahmad-hazim-63b6a2216"><img src="https://img.shields.io/badge/LinkedIn-Ahmad_Hazim-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 
-```{=html}
+📍 Malaysia
+
+</div>
+
 <table>
-```
-```{=html}
 <tr>
-```
-```{=html}
-<td width="52%" valign="top">
-```
-## `> ABOUT ME`
+<td width="55%" valign="top">
 
-I'm interested in building **AI-powered vision systems** and **robotics
-solutions**.
+<h2>👨‍💻 About Me</h2>
 
--   🎯 **Focus:** Computer Vision, Deep Learning, Robotics
--   🌱 **Currently Learning:** VLMs, 3D Vision, Edge AI
--   💡 Interested in solving real-world problems with AI
--   🤖 Building and experimenting with vision + robotics systems
+I'm interested in building practical AI-powered computer visionsystems and experimenting with robotics, deep learning, andintelligent automation.
 
-```{=html}
+🎯 Focus: Computer Vision, Deep Learning & Robotics
+
+🔬 R&D: Object Detection, Visual Recognition & Industrial Vision
+
+🌱 Currently Learning: VLMs, Grounding DINO, CLIP & 3D Vision
+
+🤖 Also Building: Robotics and embedded AI systems
+
+⚡ Goal: Turn AI research into useful real-world systems
+
 </td>
-```
-```{=html}
-<td width="48%" align="center" valign="top">
-```
-```{=html}
-<!-- Put your Gundam/mecha line-art image here -->
-```
-`<img src="./assets/gundam-line.png" width="420" alt="Mecha line art"/>`{=html}
+<td width="45%" align="center" valign="middle">
 
-```{=html}
+<img src="./assets/gundam-line.png" width="390" alt="Mecha line art">
+
 </td>
-```
-```{=html}
 </tr>
-```
-```{=html}
 </table>
-```
 
-------------------------------------------------------------------------
+> TECH STACK
 
-## `> TECH STACK`
+<div align="center">
 
-::: {align="center"}
-![Python](https://img.shields.io/badge/Python-111827?style=for-the-badge&logo=python)
-![C++](https://img.shields.io/badge/C++-111827?style=for-the-badge&logo=cplusplus)
-![OpenCV](https://img.shields.io/badge/OpenCV-111827?style=for-the-badge&logo=opencv)
-![PyTorch](https://img.shields.io/badge/PyTorch-111827?style=for-the-badge&logo=pytorch)
-![YOLO](https://img.shields.io/badge/YOLO-111827?style=for-the-badge&logo=yolo)
-![Arduino](https://img.shields.io/badge/Arduino-111827?style=for-the-badge&logo=arduino)
-![ESP32](https://img.shields.io/badge/ESP32-111827?style=for-the-badge&logo=espressif)
-![Git](https://img.shields.io/badge/Git-111827?style=for-the-badge&logo=git)
-![Linux](https://img.shields.io/badge/Linux-111827?style=for-the-badge&logo=linux)
-:::
+<img src="https://skillicons.dev/icons?i=python,cpp,opencv,pytorch,arduino,git,github,linux,vscode&perline=9" alt="Tech stack">
 
-------------------------------------------------------------------------
+<br><br>
 
-## `> FEATURED PROJECTS`
+<img src="https://img.shields.io/badge/YOLO-111827?style=for-the-badge&logo=yolo&logoColor=00FFFF">
+<img src="https://img.shields.io/badge/Grounding_DINO-111827?style=for-the-badge">
+<img src="https://img.shields.io/badge/CLIP-111827?style=for-the-badge">
+<img src="https://img.shields.io/badge/Computer_Vision-111827?style=for-the-badge&logo=opencv&logoColor=5C3EE8">
+<img src="https://img.shields.io/badge/ESP32-111827?style=for-the-badge&logo=espressif&logoColor=white">
 
-```{=html}
+</div>
+
+> FEATURED PROJECTS
+
 <table>
-```
-```{=html}
 <tr>
-```
-```{=html}
 <td width="33%" valign="top">
-```
-### 01 --- Dynamic ROI Detection
 
-Automatic detection and tracking of dynamic regions in video using
-**Grounding DINO + CLIP**.
+<h3>01 — 🧊 KHU Intellec Refrigerator</h3>
 
-**Tech Stack**
+<b>Intelligent Recipe Recommendation System</b>
 
-`Python` `OpenCV` `Grounding DINO` `CLIP`
+<br><br>
 
-**Highlights**
+A computer vision system that uses YOLOv5 and a custom dataset todetect food items inside a refrigerator and recommend recipes based onthe detected ingredients.
 
--   Dynamic ROI generation
--   Multi-object filtering
--   Stable bounding boxes
--   Real-time video processing
+<br><br>
 
-```{=html}
+<b>Core Features</b>
+
+Food item detection
+
+Custom YOLOv5 training
+
+Recipe recommendation
+
+JSON recipe database
+
+Roboflow dataset integration
+
+<br>
+
+<b>Tech</b>
+
+Python YOLOv5 Computer Vision Roboflow
+
+<br><br>
+
+<a href="https://github.com/Hajim5/KHU-Intellec-Refrigerator">
+<img src="https://img.shields.io/badge/View_Project-181717?style=for-the-badge&logo=github&logoColor=white">
+</a>
+
 </td>
-```
-```{=html}
 <td width="33%" valign="top">
-```
-### 02 --- Robot Vision System
 
-Indoor robot navigation using landmark recognition and obstacle
-detection.
+<h3>02 — 🛡️ PhishLess</h3>
 
-**Tech Stack**
+<b>Hybrid ML & Transformer-Based Phishing URL Detection</b>
 
-`Python` `YOLO` `OpenCV` `ROS`
+<br><br>
 
-**Highlights**
+An undergraduate research project for detecting phishing URLs usinglexical and host-based features, multiple machine-learning models,and a Transformer-based deep learning model.
 
--   Landmark detection
--   Obstacle detection
--   Robot navigation
--   Real-time decision making
+<br><br>
 
-```{=html}
+<b>Core Features</b>
+
+URL feature engineering
+
+Classical ML models
+
+Transformer architecture
+
+Ensemble voting
+
+Real-world phishing detection
+
+<br>
+
+<b>Tech</b>
+
+Python Machine Learning Transformers Cybersecurity
+
+<br><br>
+
+<a href="https://github.com/Hajim5/PhishLess">
+<img src="https://img.shields.io/badge/View_Project-181717?style=for-the-badge&logo=github&logoColor=white">
+</a>
+
 </td>
-```
-```{=html}
 <td width="33%" valign="top">
-```
-### 03 --- Mecanum Autonomous Robot
 
-Autonomous mecanum-wheel robot with line following, sensing and object
-detection.
+<h3>03 — 👁️ BeyondYOLO</h3>
 
-**Tech Stack**
+<b>Classical Computer Vision for Industrial Inspection</b>
 
-`C++` `Arduino` `Sensors` `OpenCV`
+<br><br>
 
-**Highlights**
+A collection of classical computer vision techniques for objectdetection and industrial inspection without relying on deep-learningdetectors such as YOLO.
 
--   Mecanum kinematics
--   Line following
--   Sensor integration
--   Object detection & navigation
+<br><br>
 
-```{=html}
+<b>Core Focus</b>
+
+Template matching
+
+Feature-based detection
+
+Image preprocessing
+
+ROI extraction
+
+Industrial inspection
+
+Non-deep-learning pipelines
+
+<br>
+
+<b>Tech</b>
+
+Python OpenCV Classical CV Image Processing
+
 </td>
-```
-```{=html}
 </tr>
-```
-```{=html}
 </table>
-```
 
-------------------------------------------------------------------------
+> GITHUB STATISTICS
 
-## `> GITHUB STATISTICS`
+<div align="center">
 
-::: {align="center"}
-`<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_border=true&theme=transparent" alt="GitHub stats"/>`{=html}
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Hajim5&show_icons=true&hide_border=true&theme=github_dark&rank_icon=github" alt="Hajim5 GitHub statistics">
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hajim5&layout=compact&hide_border=true&theme=github_dark&langs_count=8" alt="Hajim5 most used languages">
 
-`<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&hide_border=true&theme=transparent" alt="Top languages"/>`{=html}
-:::
+</div>
 
-### Contribution Streak
+<br>
 
-::: {align="center"}
-`<img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=transparent&hide_border=true" alt="GitHub streak"/>`{=html}
-:::
+> CONTRIBUTION STREAK
 
-### Contribution Graph
+<div align="center">
 
-::: {align="center"}
-`<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=github-compact&hide_border=true&area=true" width="100%" alt="Contribution graph"/>`{=html}
-:::
+<img src="https://streak-stats.demolab.com?user=Hajim5&theme=github-dark-blue&hide_border=true" alt="Hajim5 GitHub contribution streak">
 
-------------------------------------------------------------------------
+</div>
 
-::: {align="center"}
-### `> Building systems that see, think and act.`
+<br>
+
+> CONTRIBUTION GRAPH
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Hajim5&theme=github-compact&hide_border=true&area=true" width="100%" alt="Hajim5 contribution graph">
+
+</div>
+
+> CURRENT EXPLORATION
+
+Computer Vision
+│
+├── Object Detection
+│   ├── YOLO
+│   ├── Grounding DINO
+│   └── Classical Detection
+│
+├── Vision-Language Models
+│   ├── CLIP
+│   └── Open-Vocabulary Detection
+│
+├── Industrial Vision
+│   ├── Template Matching
+│   ├── ROI Detection
+│   └── Visual Inspection
+│
+└── Robotics
+    ├── Computer Vision
+    ├── Sensors
+    └── Autonomous Navigation
+
+<div align="center">
+
+> Building systems that see, think and act.
 
 Computer Vision • Deep Learning • Robotics • AI
-:::
+
+<br>
+
+<img src="https://komarev.com/ghpvc/?username=Hajim5&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile views">
+
+</div>
