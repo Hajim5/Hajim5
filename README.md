@@ -1,8 +1,6 @@
 <div align="center">
 
-> Hello World! I'm building the future with code.
-
-AHMAD HAZIM
+HaaZuu55
 
 AI & Computer Vision Engineer
 
