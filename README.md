@@ -70,8 +70,8 @@ I'm interested in building practical AI-powered computer visionsystems and exper
 ## 📊 GitHub Statistics
 
 <p align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=Hajim5&show_icons=true&theme=tokyonight"
+  <img
+    src="https://github-stats-extended.vercel.app/api?username=Hajim5&show_icons=true&theme=tokyonight"
     alt="GitHub Statistics"
   />
 </p>
@@ -79,8 +79,8 @@ I'm interested in building practical AI-powered computer visionsystems and exper
 ## 💻 Most Used Languages
 
 <p align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hajim5&layout=compact&theme=tokyonight"
+  <img
+    src="https://github-stats-extended.vercel.app/api/top-langs/?username=Hajim5&layout=compact&theme=tokyonight"
     alt="Most Used Languages"
   />
 </p>
