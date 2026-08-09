@@ -71,7 +71,7 @@ I'm interested in building practical AI-powered computer visionsystems and exper
 
 <p align="center">
   <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hajim5&layout=compact&theme=tokyonight"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=HaaZuu55&layout=compact&theme=tokyonight"
     alt="Most Used Languages"
   />
 </p>
