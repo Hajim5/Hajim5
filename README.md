@@ -154,14 +154,13 @@ Research-based phishing URL detector combining
 
 </td>
 
-
 <!-- ==================== PROJECT 3 ==================== -->
 <td width="33%" valign="top">
 
 <h3 align="center">👁️ BeyondYOLO</h3>
 
 <p align="center">
-<img src="https://img.shields.io/badge/STATUS-IN_DEVELOPMENT-orange?style=flat-square">
+  <img src="https://img.shields.io/badge/STATUS-COMPLETED-success?style=flat-square">
 </p>
 
 <p align="center">
@@ -174,26 +173,30 @@ Exploring object detection and industrial inspection using
 on deep-learning detectors.
 </p>
 
-<h4>🔬 Currently Exploring</h4>
+<h4>🔬 Techniques Explored</h4>
 
 ✓ Template matching<br>
 ✓ Feature-based detection<br>
 ✓ Image preprocessing<br>
 ✓ Dynamic ROI extraction<br>
+✓ Temporal stability analysis<br>
 ✓ Industrial visual inspection<br>
+✓ Object location detection<br>
 
 <br>
 
 <p>
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white">
-<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white">
-<img src="https://img.shields.io/badge/Classical_CV-111827?style=flat-square">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white">
+  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white">
+  <img src="https://img.shields.io/badge/Classical_CV-111827?style=flat-square">
 </p>
 
 <br>
 
 <p align="center">
-<img src="https://img.shields.io/badge/COMING_SOON-333333?style=for-the-badge&logo=github&logoColor=white">
+  <a href="https://github.com/Hajim5/BeyondYOLO">
+    <img src="https://img.shields.io/badge/VIEW_PROJECT-GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
+  </a>
 </p>
 
 </td>
