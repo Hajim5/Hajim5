@@ -66,7 +66,15 @@ I'm interested in building practical AI-powered computer visionsystems and exper
 - **Julia Programming Language – From Zero to Expert** — April 13, 2026
 - **Cybersecurity 101** by TryHackMe — June 4, 2025
 - **Pre Security** by TryHackMe — April 6, 2025
+- 
+## 💻 Most Used Languages
 
+<p align="center">
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hajim5&layout=compact&theme=tokyonight"
+    alt="Most Used Languages"
+  />
+</p>
 ## 🔥 Contribution Streak
 </tr>
 <div align="center">
