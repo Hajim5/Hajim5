@@ -2,29 +2,12 @@
 
 <h1>Hi 👋, I'm Ahmad Hazim</h1>
 
-<h3>AI & Computer Vision Engineer</h3>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=AI+%26+Computer+Vision+Engineer;Robotics+%26+Embedded+Systems;Linux+%26+Homelab+Enthusiast;Always+Learning+Something+New" alt="Typing Animation">
 
-<p>
-Building intelligent systems at the intersection of
-<b>Computer Vision</b>, <b>Artificial Intelligence</b>, and <b>Robotics</b>.
-</p>
+<p>AI • Computer Vision • Robotics • Embedded Systems • Linux • Homelab</p>
 
-<p>
-<code>Computer Vision</code> •
-<code>Deep Learning</code> •
-<code>Robotics</code> •
-<code>Industrial Vision</code>
-</p>
-
-<a href="https://github.com/Hajim5">
-  <img src="https://img.shields.io/badge/GitHub-Hajim5-181717?style=for-the-badge&logo=github&logoColor=white">
-</a>
-&nbsp;
-<a href="https://www.linkedin.com/in/ahmad-hazim-63b6a2216">
-  <img src="https://img.shields.io/badge/LinkedIn-Ahmad_Hazim-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
-</a>
-
-📍 Malaysia
+<a href="https://github.com/Hajim5"><img src="https://img.shields.io/badge/GitHub-Hajim5-181717?style=for-the-badge&logo=github&logoColor=white"></a>
+<a href="https://www.linkedin.com/in/ahmad-hazim-63b6a2216"><img src="https://img.shields.io/badge/LinkedIn-Ahmad%20Hazim-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 
 </div>
 
@@ -66,35 +49,28 @@ I'm interested in building practical AI-powered computer visionsystems and exper
 - **Julia Programming Language – From Zero to Expert** — April 13, 2026
 - **Cybersecurity 101** by TryHackMe — June 4, 2025
 - **Pre Security** by TryHackMe — April 6, 2025
-- 
-## 📊 GitHub Statistics
 
-<p align="center">
-  <img
-    src="https://github-stats-extended.vercel.app/api?username=Hajim5&show_icons=true&theme=tokyonight"
-    alt="GitHub Statistics"
-  />
-</p>
+## 📊 GitHub Overview
 
-## 💻 Most Used Languages
+<table>
+<tr>
+<td width="50%" align="center">
 
-<p align="center">
-  <img
-    src="https://github-stats-extended.vercel.app/api/top-langs/?username=Hajim5&layout=compact&theme=tokyonight"
-    alt="Most Used Languages"
-  />
-</p>
+### 💻 Most Used Languages
 
-## 🔥 Contribution Streak
+<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=Hajim5&layout=compact&theme=tokyonight" alt="Most Used Languages">
+
+</td>
+
+<td width="50%" align="center">
+
+### 🔥 Contribution Streak
+
+<img src="https://streak-stats.demolab.com/?user=Hajim5&theme=tokyonight" alt="Contribution Streak">
+
+</td>
 </tr>
-<div align="center">
-
-
-<img
-  src="https://streak-stats.demolab.com?user=Hajim5&theme=transparent&hide_border=true"
-  alt="GitHub Streak"
-/>
-</div>
+</table>
 
 ## 📈 Contribution Activity
 </tr>
